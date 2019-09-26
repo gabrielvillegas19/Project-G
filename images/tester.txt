@@ -1,1 +1,4 @@
 Así es Raza 
+Aquí se pondrá información acerca del proyecto a realizar
+Estas son solo pruebas poniendo texto sin algún tema en específico para 
+**ver como funciona**
